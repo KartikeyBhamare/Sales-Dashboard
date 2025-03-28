@@ -23,10 +23,6 @@ This Power BI dashboard provides an in-depth analysis of sales data, offering in
 
 ### 2️⃣ **Sales Trends Over Time**
 - Analyze sales variations across different timeframes:
-  - Daily
-  - Monthly
-  - Quarterly
-  - Annually
 
 ### 3️⃣ **Sales & Profit Relationship**
 - Visualize the correlation between sales and profit to understand profitability trends.
