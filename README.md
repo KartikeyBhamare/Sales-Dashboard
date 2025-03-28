@@ -5,11 +5,13 @@ This Power BI dashboard provides an in-depth analysis of sales data, offering in
 
 ## 📸 Dashboard Screenshots
 
-### 🔹 Sales Trends & Sales vs Profit Overview
-![Dashboard Overview](ss/Screenshot%202025-03-28%20111733.png)
-
 ### 🔹 Top/Bottom 5 Products
-![Top 5 Products](ss/Screenshot%202025-03-28%20111709.png)
+![Screenshot 2025-03-28 111709](https://github.com/user-attachments/assets/57982b83-18d8-44e7-9675-f92658cc6792)
+
+
+### 🔹 Sales Trends & Sales vs Profit Overview
+![Screenshot 2025-03-28 111733](https://github.com/user-attachments/assets/c355b16e-6954-4a72-a6a2-bf10bd178c06)
+
 
 ## 🔍 Key Features
 
