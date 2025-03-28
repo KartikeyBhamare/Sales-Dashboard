@@ -3,6 +3,14 @@
 ## 📌 Project Overview
 This Power BI dashboard provides an in-depth analysis of sales data, offering insights into product performance, sales trends, and profitability. Users can interact with the dashboard to compare different time periods and analyze key metrics.
 
+## 📸 Dashboard Screenshots
+
+### 🔹 Sales Trends & Sales vs Profit Overview
+![Dashboard Overview](ss/Screenshot%202025-03-28%20111733.png)
+
+### 🔹 Top/Bottom 5 Products
+![Top 5 Products](ss/Screenshot%202025-03-28%20111709.png)
+
 ## 🔍 Key Features
 
 ### 1️⃣ **Top/Bottom 5 Products by Sales, Profit & Quantity Sold**
@@ -62,3 +70,4 @@ The dashboard includes:
 
 ---
 🚀 **Developed by Kartikey Bhamare**
+
